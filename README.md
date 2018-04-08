@@ -1,5 +1,5 @@
 # NYC-zip-code-profitability-analysis
-Discovering most profitable NYC zip codes for rental estate business, using AirBnB &amp; Zillow data 
+We intend to search most profitable NYC zip codes for our rental estate business, using AirBnB &amp; Zillow data. 
 
 We have AirBnb rental listing data in NYC for May 2017 (1, 2 & 3 bed apartment).
 
